@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PetListJSONParse</string>
+    <string name="pet_adi">Pet Adı:</string>
+</resources>
